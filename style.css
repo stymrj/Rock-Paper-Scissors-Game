@@ -67,20 +67,11 @@ img {
 }
 
 
-
-
-
-
-
-
-
-
-
 footer {
-    padding: 1px;
-    background-color: #abbaba;
-    color: #000;
-    display: flex;
-    text-align: center;
-    justify-content: center;
-  }
+    background-color: black;
+    color: aliceblue;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
